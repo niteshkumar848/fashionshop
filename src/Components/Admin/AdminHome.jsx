@@ -13,7 +13,7 @@ export default function AdminHome() {
                     <h5 className='background text-light text-center p-2'>Admin Home Page</h5>
                     <div className='row'>
                         <div className='col-md-6 col-12'>
-                            <img src={pic} width="100%" heigh="500px" className='rounded'></img>
+                            <img src={pic} width="100%" heigh="500px" className='rounded'/>
                         </div>
                         <div className='col-md-6 col-12'>
                             <table className='table'>
